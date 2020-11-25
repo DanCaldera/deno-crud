@@ -1,2 +1,3 @@
 # deno-crud
-Simple Deno CRUD using oak and mongo
+
+Simple RestAPI CRUD using deno, oak and mongo
